@@ -1,0 +1,10 @@
+
+*.hprof
+.idea/
+build/
+.dart_tool/
+.idea/.gitignore
+.idea/mihuapp.iml
+.flutter-plugins-dependencies
+.flutter-plugins
+.dart_tool/package_config.json
